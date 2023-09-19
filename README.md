@@ -1,6 +1,6 @@
 # Target lifestyle APP
 
 <p align="center">
-  Aplicativo mobile desnvolvido em Kotlin.
+  Aplicativo mobile desenvolvido em Kotlin.
 </p>
 
